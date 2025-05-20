@@ -79,6 +79,7 @@ http://localhost:3000
 ---
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/2a1e2fec-d27b-4c7b-8378-7e5fc2646c76)
 
 
 ---
